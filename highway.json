@@ -1,0 +1,14 @@
+{
+  "white": [
+    "right",
+    "red"
+  ],
+  "red": [
+    "right",
+    "lime"
+  ],
+  "lime": [
+    "left",
+    "white"
+  ]
+}

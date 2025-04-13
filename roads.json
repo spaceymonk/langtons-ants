@@ -1,0 +1,46 @@
+{
+  "white": [
+    "right",
+    "red"
+  ],
+  "red": [
+    "left",
+    "lime"
+  ],
+  "lime": [
+    "right",
+    "cyan"
+  ],
+  "cyan": [
+    "right",
+    "yellow"
+  ],
+  "yellow": [
+    "right",
+    "pink"
+  ],
+  "pink": [
+    "right",
+    "gray"
+  ],
+  "gray": [
+    "left",
+    "brown"
+  ],
+  "brown": [
+    "left",
+    "green"
+  ],
+  "green": [
+    "left",
+    "blue"
+  ],
+  "blue": [
+    "right",
+    "orange"
+  ],
+  "orange": [
+    "right",
+    "white"
+  ]
+}

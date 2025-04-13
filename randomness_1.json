@@ -1,0 +1,10 @@
+{
+  "white": [
+    "right",
+    "black"
+  ],
+  "black": [
+    "left",
+    "white"
+  ]
+}
